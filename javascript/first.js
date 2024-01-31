@@ -1760,6 +1760,7 @@
 // let arr = ["dog","cat","dog","cat","loin"]
 
 // let uniqueArr = [...new Set(arr)]
+<<<<<<< HEAD
 // console.log(uniqueArr)
 
 
@@ -1874,3 +1875,6 @@
 // console.log(idGenerator.next())
 // console.log(idGenerator.next())
 
+=======
+// console.log(uniqueArr)
+>>>>>>> b17fe66235e467582da08fa2d33c4ea7ab2d6120
